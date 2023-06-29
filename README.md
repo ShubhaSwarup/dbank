@@ -1,7 +1,7 @@
 # dbank
 
 Welcome to your new dbank project and to the internet computer development community. 
-To learn more before, see the following documentation available online:
+To learn more , see the following documentation available online:
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/build/install-upgrade-remove)
